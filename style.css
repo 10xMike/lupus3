@@ -13,8 +13,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  height: 85vh;
-
+  height: 100vh;
   color: var(--clr-neon);
   display: grid;
   place-content: center;
@@ -31,7 +30,7 @@ canvas {
 }
 
 .neon-button {
-  font-size: 16px;
+  font-size: 1.5rem;
   display: inline-block;
   cursor: pointer;
   text-decoration: none;
